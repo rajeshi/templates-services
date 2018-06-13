@@ -5,7 +5,7 @@
  */
 package com.testautomationhq.templates.services.repo;
 
-import com.testautomationhq.templates.services.models.Template;
+import com.testautomationhq.data_objects_library.Template;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 /**

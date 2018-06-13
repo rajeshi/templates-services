@@ -1,6 +1,6 @@
 package com.testautomationhq.templates.services.controller;
 
-import com.testautomationhq.templates.services.models.Template;
+import com.testautomationhq.data_objects_library.Template;
 import com.testautomationhq.templates.services.repo.TemplatesRepository;
 import java.util.UUID;
 import org.springframework.beans.factory.annotation.Autowired;

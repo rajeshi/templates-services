@@ -26,6 +26,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.testautomationhq</groupId>
+            <artifactId>data-objects-library</artifactId>
+            <version>1.0.0.RELEASE</version>
+        </dependency>
+        <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-mongodb</artifactId>
         </dependency>
